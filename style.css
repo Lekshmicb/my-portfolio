@@ -386,7 +386,7 @@ header .navbar ul li a:hover{
 
 }
 
-.volunteer .box-container{
+.Internship .box-container{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -401,7 +401,7 @@ header .navbar ul li a:hover{
 
   
 
-.volunteer .box-container .box{
+.Internship .box-container .box{
     width: 27rem;
     margin: 3rem 1rem;
     padding-left: 3rem;
@@ -411,7 +411,7 @@ header .navbar ul li a:hover{
 
 }
 
-.volunteer .box-container .box span{
+.Internship .box-container .box span{
     font-size: 1.3rem;
     background: #222;
     color: #fff;
@@ -419,20 +419,20 @@ header .navbar ul li a:hover{
     padding: .5rem 2.5rem;
 }
 
-.volunteer .box-container .box h3{
+.Internship .box-container .box h3{
      font-size: 2rem;
      color: #fff;
      padding-top: 1.5rem;
 }
 
-.volunteer .box-container .box p{
+.Internship .box-container .box p{
     font-size: 1.4rem;
     color: #eee;
     padding: 1rem 0;
 
 }
 
-.volunteer .box-container .box i{
+.Internship .box-container .box i{
     position: absolute;
     top: -1.5rem;
     left: -2.5rem;
